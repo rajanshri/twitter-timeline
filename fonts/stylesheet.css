@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'GentiumBasicRegular';
+    src: url('GenBasR-webfont.eot');
+    src: url('GenBasR-webfont.eot@#iefix') format('embedded-opentype'),
+         url('GenBasR-webfont.woff') format('woff'),
+         url('GenBasR-webfont.ttf') format('truetype'),
+         url('GenBasR-webfont.svg#GentiumBasicRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+@font-face {
+ font-family: 'GentiumBasicRegular';
+src: url('GenBasR-webfont.svg#GentiumBasicRegular') format('svg');
+}
+}
+
+@font-face {
+    font-family: 'OpenSansRegular';
+    src: url('OpenSans-Regular-webfont.eot');
+    src: url('OpenSans-Regular-webfont.eot@#iefix') format('embedded-opentype'),
+         url('OpenSans-Regular-webfont.woff') format('woff'),
+         url('OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('OpenSans-Regular-webfont.svg#OpenSansRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+@font-face {
+ font-family: 'OpenSansRegular';
+ url('OpenSans-Regular-webfont.svg#OpenSansRegular') format('svg');
+}
+}
+
+@font-face {
+    font-family: 'OpenSansSemibold';
+    src: url('OpenSans-Semibold-webfont.eot');
+    src: url('OpenSans-Semibold-webfont.eot@#iefix') format('embedded-opentype'),
+         url('OpenSans-Semibold-webfont.woff') format('woff'),
+         url('OpenSans-Semibold-webfont.ttf') format('truetype'),
+         url('OpenSans-Semibold-webfont.svg#OpenSansSemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+@font-face {
+ font-family: 'OpenSansSemibold';
+ url('OpenSans-Semibold-webfont.svg#OpenSansSemibold') format('svg');
+}
+}
+
